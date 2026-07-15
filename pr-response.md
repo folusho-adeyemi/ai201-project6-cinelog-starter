@@ -21,7 +21,7 @@
 **Tradeoff acknowledged:** Privacy risk and also you won't be able to avoid spoilers
 
 ## Comment 5 — Sort order
-**My position:** I agree with your stace
+**My position:** I agree with your stance
 **Reasoning:** It makes sense to view a collection in the order by which they were added. 
 **Engagement with reviewer's point:** Yeah i agree with you on this. I belive it is more intuitive to have the collection designed that way.
 
