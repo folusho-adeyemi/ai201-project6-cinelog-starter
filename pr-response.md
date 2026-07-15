@@ -26,9 +26,9 @@
 **Engagement with reviewer's point:** Yeah i agree with you on this. I belive it is more intuitive to have the collection designed that way.
 
 ## Comment 6 — Rebase
-**What conflicted:**
-**How I resolved it:**
-**How I verified no conflict remains:**
+**What conflicted:** the gitignore fle
+**How I resolved it:** i accepted the incoming changes
+**How I verified no conflict remains:** ran git status and it was clear
 
 ## PR Description
 <!-- Written at the end — feature overview, design decisions, manual testing steps -->
