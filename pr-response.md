@@ -8,8 +8,8 @@
 **How I verified:** I ensured it is changed in all other references
 
 ## Comment 2 — Deduplication
-**What I did:**
-**How I verified:**
+**What I did:** added logic that raises and aror if the fil is already in the watch list to prevent duplicates
+**How I verified:** 
 
 ## Comment 3 — Missing test
 **What I did:**
